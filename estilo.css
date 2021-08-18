@@ -1,0 +1,72 @@
+/* seccion 2 */
+
+#botonesp div {
+    text-align: center;
+    padding: 50px;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: gray;
+}
+
+#botonesp div h3 {
+    color: white;
+    font-style: oblique;
+}
+
+#botonesp div p {
+    color: #878787;
+}
+
+#contenedor {
+    background-color: #121518;
+}
+
+
+/* seccion 2 */
+
+
+/******footer********/
+
+.copyrightText {
+    width: 100%;
+    background: #181818;
+    padding: 8px 100px;
+    text-align: center;
+    color: #999;
+}
+
+
+/******responsi********/
+
+@media (max-width: 991px) {
+    .copyrightText {
+        padding: 8px 40px;
+    }
+}
+
+
+/* acerca de nosotros */
+
+article {
+    margin-top: 20px;
+}
+
+article img {
+    width: 35%;
+    float: left;
+    margin-right: 10px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: black;
+}
+
+article h2 {
+    text-align: center;
+}
+
+article p {
+    text-align: justify;
+}
+
+
+/* acerca de nosotros */

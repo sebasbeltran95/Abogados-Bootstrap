@@ -1,0 +1,8 @@
+@font-face {
+    font-family: abogado;
+    src: url(abogado.ttf);
+}
+
+.fuente {
+    font-family: abogado;
+}
